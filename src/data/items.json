@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "strawberry",
+        "price": 127,
+        "imgUrl": "/imgs/strawberry.jpg"
+    },
+    {
+        "id": 2,
+        "name": "avocado",
+        "price": 45,
+        "imgUrl": "/imgs/avocado.jpg"
+    },
+    {
+        "id": 3,
+        "name": "snacks",
+        "price": 25,
+        "imgUrl": "/imgs/snacks.jpg"
+    },
+    {
+        "id": 4,
+        "name": "tissue",
+        "price": 60,
+        "imgUrl": "/imgs/tissue.jpg"
+    },
+    {
+        "id": 5,
+        "name": "shower-gel",
+        "price": 127,
+        "imgUrl": "/imgs/showergel.jpg"
+    },
+    {
+        "id": 6,
+        "name": "icecream",
+        "price": 15,
+        "imgUrl": "/imgs/icecream.jpg"
+    },
+    {
+        "id": 7,
+        "name": "milk",
+        "price": 30,
+        "imgUrl": "/imgs/milk.jpg"
+    },
+    {
+        "id": 8,
+        "name": "bread",
+        "price": 50,
+        "imgUrl": "/imgs/bread.jpg"
+    },
+    {
+        "id": 9,
+        "name": "cereal",
+        "price": 66,
+        "imgUrl": "/imgs/cereal.jpg"
+    }
+    
+
+]
